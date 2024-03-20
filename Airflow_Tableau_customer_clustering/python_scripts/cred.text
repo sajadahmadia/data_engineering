@@ -1,5 +1,5 @@
 host_name = 'xxxxx.mysql.database.azure.com'
 db_name = 'users_db'
 user_name = 'yourlogin'
-password = 'yourpassword'
+password_enc = 'yourpassword'
 
