@@ -9,5 +9,5 @@ In this repo, I've shared the files used in developing a data pipeline to cluste
 5. Using Tableau Cloud to transform the data further 
 6. Visualizing the final results in Tableau Desktop and publishing the results
 
-The full documentation of this repo can be found in this (link)[https://www.linkedin.com/pulse/customer-clustering-end-to-end-data-pipeline-airflow-tableau-ahmadi-7r9ze/)
+The full documentation of this repo can be found in this [link](https://www.linkedin.com/pulse/customer-clustering-end-to-end-data-pipeline-airflow-tableau-ahmadi-7r9ze/)
 
